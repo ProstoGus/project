@@ -1,0 +1,6 @@
+name: TESTNMS
+version: '${version}'
+main: worldofreim.servebeer.com44611.testnms.TESTNMS
+api-version: 1.19
+commands:
+  phasm: {}
